@@ -1,10 +1,4 @@
-## Private Repo
-
-### [Create Private Repo using this link](https://classroom.github.com/a/ovIjFk7Z)
-
-[https://classroom.github.com/a/ovIjFk7Z](https://classroom.github.com/a/ovIjFk7Z)
-
-# **Assignment-1:Basic Problem Solving using TypeScript for Technocrats**
+# Basic Problem Solving using TypeScript for Technocrats
 
 The assignment includes different problems for working with TypeScript, such as changing the types of data, making interfaces for objects, using classes and inheritance, checking types of objects, and dealing with different kinds of data structures. The goal of the solutions is to show how to solve problems using TypeScript in a straightforward and effective way while following good coding practices.
 
@@ -85,9 +79,3 @@ Create a TypeScript program that simulates a simple shopping cart. Define an int
 - Adhere to standard coding practices for readability and clarity.
 - Do not replicate code from fellow students. Doing so will result in receiving a mark of 0.
 - Please provide the link to the GitHub repository for your submission.
-
-**Assignment Deadlines:**
-
-- 60 marks: November 9, 2023, 11:59 PM
-- 50 marks: November 10, 2023, 11:59 PM
-- 30 marks: After 10th November, 11.59PM
