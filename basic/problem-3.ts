@@ -1,3 +1,4 @@
+// Problem 3:
 interface PetProperties {
   name: string;
   age: number;

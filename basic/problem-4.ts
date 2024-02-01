@@ -1,3 +1,4 @@
+// Problem 4:
 type MixedData = (string | number)[];
 const mixedData: MixedData = [
   1,
@@ -13,7 +14,7 @@ const mixedData: MixedData = [
 ];
 
 // Using for loop
-function calculateSum(arr: MixedData): number {
+function calculateNumberSum(arr: MixedData): number {
   let total = 0;
   for (const item of arr) {
     if (typeof item === "number") {
